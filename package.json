@@ -10,6 +10,8 @@
   "author": "Barış Gündüz",
   "license": "ISC",
   "dependencies": {
-    "esm": "^3.2.25"
+    "dotenv": "^9.0.0",
+    "esm": "^3.2.25",
+    "tmi.js": "^1.8.3"
   }
 }
