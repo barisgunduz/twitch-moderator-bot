@@ -1,5 +1,5 @@
 import tmi from "tmi.js";
-require('dotenv').config()
+require("dotenv").config();
 import { BLOCKED_WORDS } from "./constants";
 
 const options = {
